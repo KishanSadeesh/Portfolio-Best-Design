@@ -1,0 +1,100 @@
+[
+  {
+    "id": "profile-summary",
+    "type": "profile",
+    "title": "Kishan S profile summary",
+    "tags": ["profile", "summary", "portfolio", "candidate"],
+    "content": "Kishan S is a Computer Science Engineering graduate specializing in IoT from VIT Vellore. His strongest profile angles are backend development, AWS serverless systems, AI-assisted applications, IoT/edge AI, and React-based frontend work. He has built projects involving AWS Lambda, API Gateway, DynamoDB, FastAPI, Leaflet.js, Flutter, Firebase, TensorFlow Lite, NodeMCU, ESP32, and React."
+  },
+  {
+    "id": "contact",
+    "type": "contact",
+    "title": "Contact links",
+    "tags": ["contact", "email", "phone", "linkedin", "github"],
+    "content": "Kishan can be contacted by email at kishansadeesh13@gmail.com or phone at +91-9047478386. LinkedIn: https://www.linkedin.com/in/kishansadeesh/. GitHub: https://github.com/KishanSadeesh."
+  },
+  {
+    "id": "education",
+    "type": "education",
+    "title": "Education",
+    "tags": ["education", "vit", "degree", "iot", "cgpa"],
+    "content": "Kishan completed B.Tech in Computer Science Engineering with specialization in IoT from VIT Vellore. The portfolio presents him as graduated with IoT-focused technical background."
+  },
+  {
+    "id": "nipurna-internship",
+    "type": "experience",
+    "title": "Backend and AI Systems Intern at Nipurna IT Solutions",
+    "tags": ["experience", "internship", "aws", "lambda", "api gateway", "dynamodb", "bedrock", "backend"],
+    "content": "From May to June 2024, Kishan worked as Backend and AI Systems Intern at Nipurna IT Solutions Pvt. Ltd. in Salem. He deployed AWS serverless backends using Lambda and API Gateway, integrated LLM-based query processing, implemented REST order workflows on DynamoDB, and configured webhook endpoints."
+  },
+  {
+    "id": "iothinc-lead",
+    "type": "experience",
+    "title": "Projects Head and Technical Lead at IoThinC Club",
+    "tags": ["leadership", "iot", "workshops", "webhooks", "edge ml", "teams"],
+    "content": "From January 2024 to January 2025, Kishan served as Projects Head and Technical Lead at IoThinC Club, VIT Vellore. He directed student teams building event-driven automation projects, conducted hands-on workshops on microcontroller networks, and guided teams through API webhooks, edge-ML protocols, and integrations."
+  },
+  {
+    "id": "project-voice-agent",
+    "type": "project",
+    "title": "Voice-Controlled Local AI Agent",
+    "tags": ["project", "react", "groq", "langchain", "speech", "ai agent", "javascript"],
+    "content": "Voice-Controlled Local AI Agent is a React project using Groq Cloud API, LangChain, Web Speech API, and speech recognition. It was designed as a voice-activated local AI assistant with fast model replies, dynamic tool selection, contextual system memory, and synthesized speech."
+  },
+  {
+    "id": "project-stcracknet",
+    "type": "project",
+    "title": "STCrackNet Damage Detection",
+    "tags": ["project", "deep learning", "computer vision", "fastapi", "leaflet", "cnn", "sobel", "attention"],
+    "content": "STCrackNet is an automated damage-detection system using a dual-branch architecture that processes RGB color-texture features and Sobel edge-gradient features through a Channel Attention fusion mechanism. It includes the Spatio-Temporal Degradation Fusion algorithm to compute a Road Degradation Index and was deployed as a FastAPI app with a Leaflet.js GIS dashboard."
+  },
+  {
+    "id": "project-fall-detection",
+    "type": "project",
+    "title": "AI Wearable Fall Detection System",
+    "tags": ["project", "iot", "edge ai", "flutter", "firebase", "tensorflow lite", "mpu6050", "wearable"],
+    "content": "AI Wearable Fall Detection System is an edge AI wearable that runs on-device machine learning for fall hazard classification. It transmits sensor data to a Flutter companion app using Firebase Realtime Database for emergency notification workflows. Technologies include Flutter, Firebase Realtime Database, TensorFlow Lite, edge ML, and MPU6050."
+  },
+  {
+    "id": "project-irrigation",
+    "type": "project",
+    "title": "Smart Irrigation Automation System",
+    "tags": ["project", "iot", "nodemcu", "ifttt", "webhooks", "esp8266", "automation"],
+    "content": "Smart Irrigation Automation System is an event-triggered agricultural irrigation command pipeline. It connects weather and moisture sensor webhooks to a NodeMCU Wi-Fi microcontroller using IFTTT automation chains to drive remote field relays. Technologies include NodeMCU, IFTTT Webhooks, API triggers, Wi-Fi relays, and ESP8266."
+  },
+  {
+    "id": "skills",
+    "type": "skills",
+    "title": "Technical skills",
+    "tags": ["skills", "python", "java", "javascript", "aws", "react", "fastapi", "sql", "firebase", "dynamodb"],
+    "content": "Kishan's languages include Python, Java, JavaScript, HTML5, CSS3, and SQL. Backend and cloud skills include REST APIs, AWS Lambda, API Gateway, Node.js, serverless architecture, FastAPI, AWS Bedrock exposure, DynamoDB, Firebase, PostgreSQL, and MySQL. Frameworks and tools include React.js, Flutter, NodeMCU, Git, GitHub, Postman, Leaflet.js, and TensorFlow Lite. Core concepts include system design, logging and monitoring, error handling, production deployment, and edge AI inference."
+  },
+  {
+    "id": "patent-wearable",
+    "type": "patent",
+    "title": "AI-Based Wearable Safety and Air-Quality Monitor",
+    "tags": ["patent", "wearable", "esp32", "air quality", "fall detection", "published"],
+    "content": "AI-Based Wearable Safety and Air-Quality Monitor is a published 2026 patent, application number 202641010447. It describes an ESP32-controlled wristband combining vital health analytics using MAX30102 and DS18B20 with environmental sensors such as PMS5003, MH-Z19, and CCS811, plus MPU6050 fall detection and alert workflows."
+  },
+  {
+    "id": "patent-stcracknet",
+    "type": "patent",
+    "title": "Heterogeneous Dual-Encoder Spatio-Structural Fusion",
+    "tags": ["patent", "stcracknet", "cnn", "road damage", "computer vision", "filed"],
+    "content": "Heterogeneous Dual-Encoder Spatio-Structural Fusion is a filed 2026 patent related to STCrackNet. It covers an AI-driven urban infrastructure damage detection system using a dual-branch convolutional neural network, RGB color-texture features, Sobel edge-gradients, Channel Attention fusion, and a Spatio-Temporal Degradation Fusion algorithm for Road Degradation Index computation."
+  },
+  {
+    "id": "certifications-achievements",
+    "type": "achievement",
+    "title": "Certifications and achievements",
+    "tags": ["certification", "java", "hackathon", "android", "iot", "adafruit"],
+    "content": "Kishan has a Java Foundation Certification from Infosys SpringBoard in June 2025, participated in a 48-hour hackathon by Yantra Central at VIT Vellore in February 2025, earned a HackerRank 5-star gold Java badge, completed an Android App Development internship from Imarticus Learning in June-July 2024, and participated in IoT using Adafruit training at VIT in May 2023."
+  },
+  {
+    "id": "role-fit-rules",
+    "type": "role-fit",
+    "title": "Role suitability guidance",
+    "tags": ["role", "job", "suitability", "backend", "cloud", "ai", "iot", "full stack"],
+    "content": "Best-fit roles for Kishan include Backend Developer, Cloud Serverless Developer, AWS Lambda/API Gateway Developer, AI Application Developer, IoT Engineer, Edge AI Developer, and Full-Stack React Developer. Backend/cloud roles are strong because of Lambda, API Gateway, REST APIs, DynamoDB, Node.js, FastAPI, and production deployment exposure. AI/ML roles are strongest when they involve applied AI, LLM apps, computer vision, edge AI, or AI integration rather than pure research. IoT roles are strong because of ESP32, NodeMCU, MPU6050, sensor workflows, Firebase, and hardware integration. Full-stack roles fit when React plus backend APIs are required."
+  }
+]
