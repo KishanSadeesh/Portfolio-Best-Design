@@ -866,10 +866,20 @@ export default function App() {
             {/* Patent 1: Wearable Safety */}
             <div className="patent-card">
               <span className="patent-status">Published</span>
-              <h3 className="patent-title">AI-Based Wearable Safety & Air-Quality Monitor</h3>
+              <h3 className="patent-title">AI-INTEGRATED WEARABLE DEVICE FOR HEALTH MONITORING WITH DUAL-MODE EMERGENCY ALERTS</h3>
               <div className="patent-meta">App No. 202641010447 • Published 2026</div>
               <p className="patent-desc">
                 Architected a cost-effective smart wristband combining vital health analytics (MAX30102 pulse oximeter/DS18B20 thermometer) and multi-pollutant environmental sensors (PMS5003 for PM2.5, MH-Z19 for CO2, CCS811 for VOCs) controlled by an ESP32. Dynamically processes motion/vitals on-device for fall detection (MPU6050), activating local alert sirens and sending immediate cellular/Wi-Fi GPS coordinates to emergency services and medical response teams.
+              </p>
+            </div>
+
+            {/* Patent 2: Wearable Safety System and Method */}
+            <div className="patent-card">
+              <span className="patent-status">Published</span>
+              <h3 className="patent-title">An AI-based Wearable Safety System and Method for Integrated Health, Air Quality, and Emergency Response</h3>
+              <div className="patent-meta">App No. 202641029742 • Published 2026</div>
+              <p className="patent-desc">
+                Presents a novel serverless, cloud-linked IoT safety architecture and classification method. Fuses multi-sensor inputs—including biomedical vitals (blood oxygen, heart rate, body temperature) and hazardous gas concentration arrays (PM2.5, carbon dioxide, volatile organic compounds)—with real-time on-device edge ML classification for emergency fall-downs or health anomalies. Integrates an automated dual-channel webhook and cellular response method that establishes high-reliability geo-location transmission and notification pipelines.
               </p>
             </div>
 

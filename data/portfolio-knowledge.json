@@ -72,9 +72,16 @@
   {
     "id": "patent-wearable",
     "type": "patent",
-    "title": "AI-Based Wearable Safety and Air-Quality Monitor",
+    "title": "AI-INTEGRATED WEARABLE DEVICE FOR HEALTH MONITORING WITH DUAL-MODE EMERGENCY ALERTS",
     "tags": ["patent", "wearable", "esp32", "air quality", "fall detection", "published"],
-    "content": "AI-Based Wearable Safety and Air-Quality Monitor is a published 2026 patent, application number 202641010447. It describes an ESP32-controlled wristband combining vital health analytics using MAX30102 and DS18B20 with environmental sensors such as PMS5003, MH-Z19, and CCS811, plus MPU6050 fall detection and alert workflows."
+    "content": "AI-INTEGRATED WEARABLE DEVICE FOR HEALTH MONITORING WITH DUAL-MODE EMERGENCY ALERTS is a published 2026 patent, application number 202641010447. It describes an ESP32-controlled wristband combining vital health analytics using MAX30102 and DS18B20 with environmental sensors such as PMS5003, MH-Z19, and CCS811, plus MPU6050 fall detection and alert workflows."
+  },
+  {
+    "id": "patent-wearable-method",
+    "type": "patent",
+    "title": "An AI-based Wearable Safety System and Method for Integrated Health, Air Quality, and Emergency Response",
+    "tags": ["patent", "wearable", "safety", "system", "method", "air quality", "emergency response", "published"],
+    "content": "An AI-based Wearable Safety System and Method for Integrated Health, Air Quality, and Emergency Response is a published 2026 patent, application number 202641029742. It covers a serverless, cloud-linked IoT safety architecture and classification method fusing vital health signs and environmental arrays with on-device edge ML and dual-channel geo-location webhooks."
   },
   {
     "id": "patent-stcracknet",
